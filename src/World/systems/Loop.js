@@ -1,4 +1,4 @@
-import { Clock } from 'https://cdn.skypack.dev/three@0.136.2';
+import { Clock } from "https://cdn.skypack.dev/three@0.132.2";
 
 const clock = new Clock();
 
