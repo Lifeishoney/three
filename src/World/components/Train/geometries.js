@@ -1,4 +1,4 @@
-import { BoxBufferGeometry, CylinderBufferGeometry } from '/vendor/three/build/three.module.js'
+import { BoxBufferGeometry, CylinderBufferGeometry } from './vendor/three/build/three.module.js'
 
 function createGeometries() {
   const cabin = new BoxBufferGeometry(2, 2.25, 1.5);
