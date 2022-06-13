@@ -1,5 +1,5 @@
 
-import { GLTFLoader } from "https://cdn.skypack.dev/three@0.132.2"
+import { GLTFLoader } from "https://cdn.skypack.dev/three@0.141.0/examples/jsm/loaders/GLTFLoader.js";
 import { setupModel } from './setupModel.js';
 
 async function loadBirds() {
