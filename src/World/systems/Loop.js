@@ -1,4 +1,5 @@
-import { Clock } from '/vendor/three/build/three.module.js'
+
+import { Clock } from "https://cdn.skypack.dev/three@0.132.2"
 
 const clock = new Clock();
 
