@@ -1,4 +1,4 @@
-import { DirectionalLight, HemisphereLight } from '/vendor/three/build/three.module.js'
+import { DirectionalLight, HemisphereLight } from './vendor/three/build/three.module.js'
 
 function createLights() {
   const ambientLight = new HemisphereLight(
