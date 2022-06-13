@@ -1,4 +1,4 @@
-import { Group, MathUtils } from '/vendor/three/build/three.module.js'
+import { Group, MathUtils } from './vendor/three/build/three.module.js'
 import { createMeshes } from './meshes.js';
 
 const wheelSpeed = MathUtils.degToRad(24);
