@@ -1,4 +1,4 @@
-import { MeshStandardMaterial } from '/vendor/three/build/three.module.js'
+import { MeshStandardMaterial } from './vendor/three/build/three.module.js'
 
 function createMaterials() {
   const body = new MeshStandardMaterial({
