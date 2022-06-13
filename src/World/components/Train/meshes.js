@@ -1,4 +1,4 @@
-import { Mesh } from '/vendor/three/build/three.module.js'
+import { Mesh } from './vendor/three/build/three.module.js'
 import { createGeometries } from './geometries.js';
 import { createMaterials } from './materials.js';
 
